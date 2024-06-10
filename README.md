@@ -1,5 +1,5 @@
 # parkingcar_js
 css,html,js 수업시간에 만든 자동차 주차 게임
 
-
-![스크린샷 2024-06-06 오후 9.30.39.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2bca57df-71ae-4c5d-a46f-715e9ed0bae1/fb5b79fa-27e5-4b73-ae3f-f6977f8bfc56/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-06_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.30.39.png)
+<img width="252" alt="스크린샷 2024-06-10 오후 1 00 48" src="https://github.com/freshsong/parkingcar_js/assets/154946396/c91e5e19-68d4-4fa0-aef4-9f8e10c0c69e">
+<img width="434" alt="스크린샷 2024-06-10 오후 1 01 09" src="https://github.com/freshsong/parkingcar_js/assets/154946396/b7a80ba7-9f2b-4fc9-9067-6ea7435d88ab">
